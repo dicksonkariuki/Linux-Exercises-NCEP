@@ -10,3 +10,9 @@ Create this structure:
 └── temp
 
 ***/home/ubuntu/mkdir -p devops-projects/{logs,backups,scripts,configs,temp}***
+
+# Task 2 add files 
+
+***touch app.log***
+***touch deploy.sh***
+***touch app.conf***
