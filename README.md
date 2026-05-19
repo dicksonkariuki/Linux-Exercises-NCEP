@@ -35,3 +35,11 @@ Create this structure:
 # Part 2 File Viewing and Log Investigation
 # Task 5 Investigating logs  
 
+Using Linux commands:
+Find:
+ERROR entries
+WARNING entries
+In the app.log created above
+
+***grep "ERROR" app.log***
+
