@@ -63,4 +63,11 @@ executable.
 
 ***chmod +x deploy.sh***
 
+Task 8 — Secure Config File (configs/app.conf)
+Set permissions so:
+owner can read/write
+nobody else has access
+
+***chmod 600 app.conf***
+
 
