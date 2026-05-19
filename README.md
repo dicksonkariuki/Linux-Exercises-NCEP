@@ -141,7 +141,20 @@ are listening on ports.
 
 ***sudo ss -tlnp | grep -E ':80|:443'***
 
+# Part 6 SSH & SCP
+Task 17 — Remote Access (Local to Remote)
 
+Use AWS Educate Account (Sign up if you don't have one)
+Create an EC2 Linux instance (ubuntu)
+Create a Security Group allowing SSH (port 22)
+.pem key pair downloaded
+
+Also note its public ip
+From your linux pc:
+Securely (using the downloaded .pem) SSH into EC2 linux instance.
+ssh -i your-key.pem ubuntu@public-ip
+
+***ssh -i "dickson.pem" ubuntu@ec2-3-137-171-248.us-east-2.compute.amazonaws.com***
 
 
 
