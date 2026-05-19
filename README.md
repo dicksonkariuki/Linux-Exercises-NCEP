@@ -178,11 +178,20 @@ Linux version
 
 ***free -h (RAM usage)
 
-***du sh (disk usage for specific directory)***
+***du -sh (disk usage for specific directory)***
 
 ***uptime***
 
 ***uname -a***
+
+Task 21 — Analyze Storage
+Determine:
+size of project directory
+available disk space
+
+***du -sh devops-project*** (size of project directory)
+
+***df -h***(Available disk space)
 
 
 
