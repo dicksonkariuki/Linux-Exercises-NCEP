@@ -135,6 +135,8 @@ hostname
 ![alt text](image-4.png)
 
 ***whoami***
+![alt text](image-5.png)
+
 
 Task 15 — Test Connectivity
 Verify internet access of your  linux machines.
