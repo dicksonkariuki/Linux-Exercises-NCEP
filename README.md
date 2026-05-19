@@ -193,6 +193,17 @@ available disk space
 
 ***df -h***(Available disk space)
 
+# Part 8 Compression & backups 
+
+Task 22 — Create Backup Archive
+Compress:
+devops-project
+
+into:
+devops-backup.tar.gz
+
+
+***tar -czvf devops-backup.tar.gz devops-project/***
 
 
 
