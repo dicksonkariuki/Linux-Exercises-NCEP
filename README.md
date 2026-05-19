@@ -53,4 +53,14 @@ app.log
 
 ***less +f app.log*** (for scrolling many logs)
 
+# Part 3 Permissions & Ownership
+
+Task 7 — Script Permissions
+Make:
+deploy.sh
+
+executable.
+
+***chmod +x deploy.sh***
+
 
