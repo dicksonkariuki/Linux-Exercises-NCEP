@@ -129,6 +129,8 @@ hostname
 Task 15 — Test Connectivity
 Verify internet access of your  linux machines.
 
+***ping host***
+
 
 
 
