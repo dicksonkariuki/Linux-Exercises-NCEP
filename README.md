@@ -79,6 +79,23 @@ Explain:
 
 ***600-Owner can read write,group & others no permissions***
 
+# Part 4 Process Management
+Task 10 — Start Background Process
+Run:
+sleep 500
 
+in the background.
+
+***sleep 500***
+
+Task 11 — Identify Process
+Find:
+PID
+process name
+Of the above process
+ 
+ *** ps aux | greep sleep***
+ 
+ ***sleep 500***
 
 
