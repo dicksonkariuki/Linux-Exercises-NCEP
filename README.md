@@ -156,6 +156,37 @@ ssh -i your-key.pem ubuntu@public-ip
 
 ***ssh -i "dickson.pem" ubuntu@ec2-3-137-171-248.us-east-2.compute.amazonaws.com***
 
+Task 18 — Secure File Transfer
+Recursively upload the above working folder to the remote EC2 instance.
+
+scp -i your-key.pem -r /path/to/local-folder ubuntu@ec2-public-ip:/home/ubuntu
+
+Task 19 — Retrieve File (Remote to Local)
+Download the following file from the remote EC2 instance to a new local folder
+app.log
+
+Hint
+scp -i your-key.pem user@ec2-ip:/path/to/remote/file /path/to/local/destination 
+
+# Part 7 Disk & System Information
+Task 20 — Check System Resources
+Display:
+RAM usage
+disk usage
+uptime
+Linux version
+
+***free -h (RAM usage)
+
+***du sh (disk usage for specific directory)***
+
+***uptime***
+
+***uname -a***
+
+
+
+
 
 
 
