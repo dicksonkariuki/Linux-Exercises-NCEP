@@ -43,3 +43,14 @@ In the app.log created above
 
 ***grep "ERROR" app.log***
 
+***grep "WARNING" app.log***
+
+# Task 6 — Monitor Logs Live
+Use a command that continuously watches:
+app.log
+
+***tail -f app.log***
+
+***less +f app.log*** (for scrolling many logs)
+
+
