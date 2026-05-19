@@ -155,6 +155,8 @@ are listening on ports.
 
 ***sudo ss -tlnp | grep :22***
 
+![alt text](image-7.png)
+
 ***sudo ss -tlnp | grep -E ':80|:443'***
 
 # Part 6 SSH & SCP
