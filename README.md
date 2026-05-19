@@ -51,6 +51,8 @@ app.log
 
 ***tail -f app.log***
 
+![alt text](image.png)
+
 ***less +f app.log*** (for scrolling many logs)
 
 # Part 3 Permissions & Ownership
