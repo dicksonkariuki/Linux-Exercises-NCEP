@@ -95,7 +95,15 @@ process name
 Of the above process
  
  *** ps aux | greep sleep***
- 
+
+ ***PID 3471***
+
  ***sleep 500***
+
+ Task 12 — Terminate Process
+Stop the above process safely.
+
+***kill 3471***
+
 
 
