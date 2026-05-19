@@ -196,11 +196,21 @@ Linux version
 
 ***free -h (RAM usage)
 
+![alt text](image-8.png)
+
+
 ***du -sh (disk usage for specific directory)***
+
+![alt text](image-9.png)
 
 ***uptime***
 
+![alt text](image-10.png)
+
 ***uname -a***
+
+![alt text](image-11.png)
+
 
 Task 21 — Analyze Storage
 Determine:
