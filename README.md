@@ -68,6 +68,17 @@ Set permissions so:
 owner can read/write
 nobody else has access
 
-***chmod 600 app.conf***
+***chmod 600 configs/app.conf***
+
+Task 9 — Explain Permissions
+Explain:
+
+***755-owner can read write execute,group can read and execute ,others can read and execute***
+
+***644-Owner can read and write,group can read,others can read***
+
+***600-Owner can read write,group & others no permissions***
+
+
 
 
