@@ -135,6 +135,7 @@ hostname
 ![alt text](image-4.png)
 
 ***whoami***
+
 ![alt text](image-5.png)
 
 
@@ -142,6 +143,9 @@ Task 15 — Test Connectivity
 Verify internet access of your  linux machines.
 
 ***ping host***
+
+![alt text](image-6.png)
+
 
 Task 16 — Verify Listening Ports
 Confirm:
