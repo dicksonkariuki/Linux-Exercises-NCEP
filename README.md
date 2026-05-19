@@ -105,5 +105,30 @@ Stop the above process safely.
 
 ***kill 3471***
 
+Task 13 — Monitor System
+Use commands to:
+check running processes
+identify CPU usage
+identify memory usage
+
+***top ,htop,psaux***
+
+***free -h***
+
+# Part 5 Networking and Connectivity 
+
+Task 14 — Find Server IP
+Display:
+IP address
+hostname
+
+***ip -a***
+
+***whoami***
+
+Task 15 — Test Connectivity
+Verify internet access of your  linux machines.
+
+
 
 
