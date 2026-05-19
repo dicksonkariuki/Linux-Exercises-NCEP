@@ -98,6 +98,8 @@ Of the above process
  
  *** ps aux | greep sleep***
 
+ ![alt text](image-1.png)
+
  ***PID 3471***
 
  ***sleep 500***
