@@ -43,7 +43,11 @@ In the app.log created above
 
 ***grep "ERROR" app.log***
 
+![alt text](image-12.png)
+
 ***grep "WARNING" app.log***
+
+![alt text](image-13.png)
 
 # Task 6 — Monitor Logs Live
 Use a command that continuously watches:
