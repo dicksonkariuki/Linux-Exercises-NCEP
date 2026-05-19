@@ -130,7 +130,9 @@ Display:
 IP address
 hostname
 
-***ip -a***
+***ip addr***
+
+![alt text](image-4.png)
 
 ***whoami***
 
