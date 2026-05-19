@@ -131,6 +131,18 @@ Verify internet access of your  linux machines.
 
 ***ping host***
 
+Task 16 — Verify Listening Ports
+Confirm:
+SSH service
+web server
+are listening on ports.
+
+***sudo ss -tlnp | grep :22***
+
+***sudo ss -tlnp | grep -E ':80|:443'***
+
+
+
 
 
 
