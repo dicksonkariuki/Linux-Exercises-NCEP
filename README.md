@@ -14,5 +14,24 @@ Create this structure:
 # Task 2 add files 
 
 ***touch app.log***
+
 ***touch deploy.sh***
+
 ***touch app.conf***
+
+# Task 3 add sample content
+
+***INFO server started***
+
+***WARNING disk almost full***
+
+***ERROR database connection failed***
+
+***INFO user login successful***
+# Task 4 copy backup 
+
+***cp app.conf backups***
+
+# Part 2 File Viewing and Log Investigation
+# Task 5 Investigating logs  
+
