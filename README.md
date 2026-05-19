@@ -96,7 +96,7 @@ PID
 process name
 Of the above process
  
- *** ps aux | greep sleep***
+ ***ps aux | greep sleep***
 
  ![alt text](image-1.png)
 
@@ -117,7 +117,11 @@ identify memory usage
 
 ***top ,htop,psaux***
 
+![alt text](image-2.png)
+
 ***free -h***
+
+![alt text](image-3.png)
 
 # Part 5 Networking and Connectivity 
 
