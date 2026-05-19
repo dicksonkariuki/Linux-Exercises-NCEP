@@ -205,6 +205,11 @@ devops-backup.tar.gz
 
 ***tar -czvf devops-backup.tar.gz devops-project/***
 
+Task 23 — Extract Backup
+Extract archive into:
+/home/ubuntu/restore
+
+***tar -xzvf backup_filename.tar.gz -C /home/ubuntu/restore***
 
 
 
